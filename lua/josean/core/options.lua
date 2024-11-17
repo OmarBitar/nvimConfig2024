@@ -19,6 +19,8 @@ opt.smartcase = true -- if you include mixed case in your search, assumes you wa
 
 opt.cursorline = true
 
+opt.scrolloff = 999
+
 -- turn on termguicolors for tokyonight colorscheme to work
 -- (have to use iterm2 or any other true color terminal)
 opt.termguicolors = true
